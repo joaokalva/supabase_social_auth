@@ -1,5 +1,10 @@
 # Supabase SvelteKit User Management
 
+- This repo is a modified version of https://github.com/supabase/supabase/tree/master/examples/user-management/sveltekit-user-management 
+- Can read and update per-user account settings and notes, taken from https://github.com/supabase/supabase/blob/master/apps/docs/content/guides/auth/server-side/sveltekit.mdx
+- Clean template for social authentication for login
+- SQL code below has been updated and has been tested
+
 ## Build from scratch
 
 ### 1. Create new project
